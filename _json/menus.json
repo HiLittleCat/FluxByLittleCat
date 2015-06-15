@@ -1,0 +1,25 @@
+[{
+    "id":0,
+    "name": "首页",
+    "link": "home",
+    "fixed":true,
+    "active":false
+}, {
+    "id":1,
+    "name": "图书",
+    "link": "bookList",
+    "fixed":false,
+    "active":false
+}, {
+    "id":2,
+    "name": "电影",
+    "link": "movieList",
+    "fixed":false,
+    "active":false
+},{
+    "id":3,
+    "name": "关于",
+    "link": "about",
+    "fixed":false,
+    "active":false
+}]
