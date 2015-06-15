@@ -14,7 +14,7 @@ Action抽象封装 Component 中可能出现的操作。</br>
 ###Store
 store维护数据，执行action，并触发store改变的事件。</br>
 
-####由于只是静态Demo，没有ajax相关的操作，真实环境中，与服务器的交互放在action中还是store中由开发者自己考量。</br>
+由于只是静态Demo，没有ajax相关的操作，真实环境中，与服务器的交互放在action中还是store中由开发者自己考量。</br>
 
 ##环境
 使用browserify打包，命令browserify js/app.js > js/bundle.js
